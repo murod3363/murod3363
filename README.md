@@ -1,4 +1,4 @@
-### Hi I'm Murod Xolmatjonov <img src="https://media4.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e475258eq5agxytwcew9l1136x2rzquwd150o21lj42&rid=giphy.gif&ct=s" width="30px" />
+### Hi I'm Murod Xolmatjonov <img src="https://media.giphy.com/media/hvRJLFzcasrR4ia7z/giphy.gif" width="40px" />
 <!--
 **murod3363/murod3363** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
