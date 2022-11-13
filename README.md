@@ -1,6 +1,4 @@
-### Hi I'm Murod Xolmatjonov <iframe src="https://giphy.com/embed/gM5qFksULw54NMWyry" width="30" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/hello-wave-hand-gM5qFksULw54NMWyry">via GIPHY</a></p>
-
-
+### Hi I'm Murod Xolmatjonov <img src="https://media4.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e475258eq5agxytwcew9l1136x2rzquwd150o21lj42&rid=giphy.gif&ct=s" width="30px" />
 <!--
 **murod3363/murod3363** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
